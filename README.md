@@ -8,11 +8,13 @@ The app stores shortened URLs in memory, so links are reset whenever the server 
 
 ```
 URL-Shortener/
-├── server.js          # Main Express server and application logic
+├── README.md          # This file
 ├── index.html         # Frontend HTML template
+versions
+├── package-lock.json  # Locked dependency
 ├── package.json       # Project dependencies and scripts
-├── package-lock.json  # Locked dependency versions
-└── README.md          # This file
+└── server.js          # Main Express server and application logic
+
 ```
 
 ## Installation
